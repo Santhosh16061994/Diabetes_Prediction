@@ -35,6 +35,9 @@ We trained and evaluated multiple machine learning models to identify the most e
 
 To make our diabetes prediction model easily accessible and user-friendly, we developed a web application using Streamlit, a Python library for creating interactive web interfaces. The web application allows users to input their relevant information, such as glucose levels, BMI, blood pressure, and family history, and obtain a personalized prediction of their likelihood of developing diabetes. The application provides clear and actionable results, empowering users to take proactive measures for their health.
 
+web app link : https://diabetesprediction01.streamlit.app/
+
+
 ## Dependencies
 
 - Python 3.7 or higher
@@ -58,4 +61,3 @@ To make our diabetes prediction model easily accessible and user-friendly, we de
 
 We welcome contributions to enhance the project and expand its functionality. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue in the GitHub repository.
 
-web app link : https://diabetesprediction01.streamlit.app/
